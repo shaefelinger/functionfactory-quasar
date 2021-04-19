@@ -10,29 +10,28 @@
         I started coding in the Eighties when i was around 12 years old. I did
         my first steps on a Commodore PET 2001 at school and when i got my own
         Commodore 64, i spent countless hours on that machine, coding day and
-        night in BASIC, MACHINE CODE and LOGO. <br />
+        night in BASIC, LOGO and MACHINE CODE. <br />
         <br />
-        As i grew older, i decided to take a carreer in my other passion and i
-        became a professional musician. So i quit coding, but i always kept
-        using computers heavily as a tool to make music. I have worked
-        professionally with almost all major Sequencer- and DAW-Applications
-        (Cubase, Logic, ProTools, Ableton Live, StudioOne, Samplitude, ...),
-        often since the very first Version.
+        As i grew older, i decided to take a career in my other passion and i
+        became a professional musician. So i quit coding, but i always kept on
+        using computers as a tool to make music.
         <br />
         <br />
         I spent the last 20 Years as a Songwriter, Producer, Engineer and
         Musician working on No-1-, Gold- and Platin-Records for German artists
         such as Yvonne Catterfeld, Wincent Weiss, Söhne Mannheims, Leith al
         Deen, Culcha Candela, Helene Fischer as well as for some international
-        artist like Paul Anka, Michal Bolten and Berry Manilow. <br />
+        artist like Michael Bublé, Paul Anka, Michal Bolten and Berry Manilow.
         <br />
-        In 2020 i wanted a change and so i went back to my old passion for
-        coding. I started to dive deep into web-technologies, did countless
-        tutorials, practised like crazy and graduated from the full-stack web
-        development program at Hamburg Coding School in March 2021. <br />
         <br />
-        I am still as fascinated by this technology as i was when i was a
-        12-year old kid and i still love to learn new stuff every day…
+        In 2020 i felt it was time for a new challenge and so i went back to my
+        old passion for coding. I started to dive deep into web-technologies,
+        did countless tutorials, practised like crazy and graduated from the
+        full-stack web development program at Hamburg Coding School in March
+        2021. <br />
+        <br />
+        I am still as fascinated by all this technology as i was when i was a
+        12-year old kid and i still love to learn new stuff every day.
       </p>
 
       <h4 class="q-pl-md q-mb-none">
@@ -93,8 +92,6 @@
           </q-item-section>
         </q-item>
       </q-list>
-
-      <p></p>
     </div>
   </q-page>
 </template>

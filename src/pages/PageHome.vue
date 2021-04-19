@@ -7,12 +7,15 @@
         ref="home"
       >
         <h1>
-          web…<br />
-          <span class="text-cyan-8 "> …apps</span>
+          <span>web...</span>
+          <br />
+          <span class="text-cyan-8 ">...apps</span>
         </h1>
+
         <q-avatar size="240px">
           <img src="~assets/sh.png" />
         </q-avatar>
+
         <div ref="about">
           <!-- <div class="mt-12  text-center text-grey-8  "> -->
           <h4>
@@ -22,12 +25,16 @@
 
           <div class="mt-10 text-body1">
             <p>
-              I'm a Software Developer located in Hamburg, Germany. I build
-              websites, webapps and multiplattform hybrid-apps.
+              I'm a software developer located in Hamburg, Germany. I build
+              websites, webapps and multiplattform apps.
             </p>
             <p>
               I am interested in all things Javascript and i have a faible for
               the Vue.js-Ecosystem - especially for the great Quasar-Framework.
+            </p>
+            <p>
+              I love good user interfaces and apps that have great user
+              experience.
             </p>
           </div>
         </div>
