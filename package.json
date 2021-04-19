@@ -2,7 +2,7 @@
   "name": "functionfactory-quasar",
   "version": "0.0.1",
   "description": "A Quasar Framework app",
-  "productName": "funcionfactory",
+  "productName": "functionfactory",
   "author": "Steffen Häfelinger <s.haefelinger@gmx.de>",
   "private": true,
   "scripts": {

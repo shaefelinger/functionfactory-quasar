@@ -1,6 +1,6 @@
 <template>
   <q-page class="flex flex-center">
-    <div style="max-width: 700px">
+    <div style="max-width: 700px;  ">
       <div class="text-center">
         <h1>about <span class="text-cyan-8">me</span></h1>
         <img src="~/assets/pet.jpeg" alt="" height="450" />
@@ -14,10 +14,10 @@
         <br />
         As i grew older, i decided to take a carreer in my other passion and i
         became a professional musician. So i quit coding, but i always kept
-        using computers heavily as a tool. I have worked professionally with
-        almost all major Sequencer- and DAW-Applications (Cubase, Logic,
-        ProTools, Ableton Live, StudioOne, Samplitude, ...), often since the
-        very first Version.
+        using computers heavily as a tool to make music. I have worked
+        professionally with almost all major Sequencer- and DAW-Applications
+        (Cubase, Logic, ProTools, Ableton Live, StudioOne, Samplitude, ...),
+        often since the very first Version.
         <br />
         <br />
         I spent the last 20 Years as a Songwriter, Producer, Engineer and
@@ -31,8 +31,8 @@
         tutorials, practised like crazy and graduated from the full-stack web
         development program at Hamburg Coding School in March 2021. <br />
         <br />
-        I am still as fascinated by the technology as i was when i was a 12-year
-        old kid and i still love to learn new stuff every day…
+        I am still as fascinated by this technology as i was when i was a
+        12-year old kid and i still love to learn new stuff every day…
       </p>
 
       <h4 class="q-pl-md q-mb-none">

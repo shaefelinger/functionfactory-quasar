@@ -1,5 +1,5 @@
 <template>
-  <q-layout view="lHh Lpr lFf">
+  <q-layout view="hHh Lpr fFf">
     <q-header elevated>
       <q-toolbar class="justify-center bg-grey-9  ">
         <q-btn
@@ -24,7 +24,12 @@
       </q-toolbar>
     </q-header>
 
-    <q-drawer v-model="leftDrawerOpen" bordered content-class="bg-grey-1">
+    <q-drawer
+      v-model="leftDrawerOpen"
+      bordered
+      content-class="bg-grey-1"
+      :width="150"
+    >
       <q-list>
         <!-- <q-item-label header class="text-grey-8">Navigation </q-item-label> -->
 
