@@ -33,7 +33,7 @@
               the Vue.js-Ecosystem - especially for the great Quasar-Framework.
             </p>
             <p>
-              I love good user interfaces and software that has great user
+              I love good user interfaces and software that has a great user
               experience.
             </p>
           </div>
