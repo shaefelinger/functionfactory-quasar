@@ -49,7 +49,7 @@
             <a href="https://www.codepedia.de/" target="_blank">
               <q-btn flat>
                 <!-- <q-icon name="language" left /> -->
-                View page Live</q-btn
+                View page</q-btn
               >
             </a>
             <a href="https://github.com/shaefelinger/codepedia" target="_blank">
@@ -122,7 +122,7 @@
             >
               <q-btn flat>
                 <!-- <q-icon name="language" left /> -->
-                View page Live</q-btn
+                View page</q-btn
               >
             </a>
             <a
