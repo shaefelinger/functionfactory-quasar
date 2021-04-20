@@ -8,7 +8,6 @@
       <div class="q-pa-md row items-start q-gutter-md ">
         <q-card class="my-card">
           <img src="~/assets/codepedia_screenshot.png" />
-
           <!-- <figure>
             <q-zoom restore-on-scroll>
               <img
