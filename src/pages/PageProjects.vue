@@ -39,7 +39,7 @@
           <q-card-section class="q-pt-none ">
             Theese are notes i took for myself from the moment i started
             learning to code. <br />
-            I converted all my Markdown-Files into a Vuepress-Page. It is (and
+            I converted my Markdown-Files into a Vuepress-Page. This is (and
             will always be) work in progress... And it is still a bit of a
             mess...😉 But it contains a lot of information and i find it very
             usefull.
