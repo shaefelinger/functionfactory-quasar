@@ -26,12 +26,16 @@
           <div class="mt-10 text-body1">
             <p>
               I'm a software developer located in Hamburg, Germany. I build
+              websites, webapps and multiplattform apps using modern web technologies.
+            </p>
+            <!-- <p>
+              I'm a software developer located in Hamburg, Germany. I build
               websites, webapps and multiplattform apps.
             </p>
             <p>
               I am interested in all things Javascript and i have a faible for
               the Vue.js-Ecosystem - especially for the great Quasar-Framework.
-            </p>
+            </p> -->
             <p>
               I love good user interfaces and software that provides a great
               user experience.

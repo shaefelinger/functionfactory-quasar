@@ -3,7 +3,9 @@
     <div style="max-width: 700px;  ">
       <div class="text-center">
         <h1>about <span class="text-cyan-8">me</span></h1>
-        <q-img src="~/assets/pet.jpeg" alt="" height="450"> </q-img>
+        <!-- <q-img src="~/assets/pet.jpeg" alt="" height="450"> </q-img> -->
+        <q-img src="~/assets/Commodore_PET2001cc.jpeg" alt="" height="450">
+        </q-img>
       </div>
 
       <p class="text-body1">
