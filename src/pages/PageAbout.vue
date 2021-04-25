@@ -39,6 +39,10 @@
       <h4 class="q-pl-md q-mb-none">
         my <span class="text-cyan-8">skills</span>
       </h4>
+          <p class="q-ma-md text-subtitle2">
+              I am interested in all things Javascript and i have a faible for
+              the Vue.js-Ecosystem - especially for the great Quasar-Framework.
+            </p> 
 
       <q-list>
         <q-item>
