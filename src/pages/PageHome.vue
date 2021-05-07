@@ -7,9 +7,9 @@
         ref="home"
       >
         <h1>
-          <span>web...</span>
+          <span class="text-h1">web...</span>
           <br />
-          <span class="text-cyan-8 ">...apps</span>
+          <span class="text-cyan-8 text-h1">...apps</span>
         </h1>
 
         <q-avatar size="240px">
@@ -26,7 +26,8 @@
           <div class="mt-10 text-body1">
             <p>
               I'm a software developer located in Hamburg, Germany. I build
-              websites, webapps and multiplattform apps using modern web technologies.
+              websites and multiplattform applications using modern web
+              technologies.
             </p>
             <!-- <p>
               I'm a software developer located in Hamburg, Germany. I build
@@ -35,10 +36,14 @@
             <p>
               I am interested in all things Javascript and i have a faible for
               the Vue.js-Ecosystem - especially for the great Quasar-Framework.
-            </p> -->
+            </p> 
+            -->
             <p>
               I love good user interfaces and software that provides a great
               user experience.
+            </p>
+            <p>
+              I am always looking for new challenges. Say Hi
             </p>
           </div>
         </div>
@@ -52,3 +57,9 @@ export default {
   name: "PageIndex"
 };
 </script>
+
+<style>
+.animation-element {
+  transition: all 5s;
+}
+</style>

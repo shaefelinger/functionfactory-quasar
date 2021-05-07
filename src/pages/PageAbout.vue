@@ -4,15 +4,16 @@
       <div class="text-center">
         <h1>about <span class="text-cyan-8">me</span></h1>
         <!-- <q-img src="~/assets/pet.jpeg" alt="" height="450"> </q-img> -->
-        <q-img src="~/assets/Commodore_PET2001cc.jpeg" alt="" height="450">
-        </q-img>
+        <!-- <q-img src="~/assets/Commodore_PET2001cc.jpeg" alt="" width="450px"> -->
+        <!-- <q-img src="~/assets/PET_2001_3_cc.jpeg" alt="" width="450px"> -->
+        <q-img src="~/assets/pet4cc.jpg" alt="" width="550px"> </q-img>
       </div>
 
-      <p class="text-body1">
+      <p class="text-body1 q-mt-xl">
         I started coding in the Eighties when i was around 12 years old. I did
         my first steps on a Commodore PET 2001 at school and when i got my own
         Commodore 64, i spent countless hours on that machine, coding day and
-        night in BASIC, LOGO and MACHINE CODE. <br />
+        night in BASIC and MACHINE CODE. <br />
         <br />
         As i grew older, i decided to take a career in my other passion and i
         became a professional musician. So i quit coding, but i always kept on
@@ -21,9 +22,9 @@
         <br />
         I spent the last 20 Years as a Songwriter, Producer, Engineer and
         Musician working on No-1-, Gold- and Platin-Records for German artists
-        such as Yvonne Catterfeld, Wincent Weiss, Söhne Mannheims, Leith al
-        Deen, Culcha Candela, Helene Fischer as well as for some international
-        artist like Michael Bublé, Paul Anka, Michal Bolten and Berry Manilow.
+        such as Yvonne Catterfeld, Wincent Weiss, Söhne Mannheims, Culcha
+        Candela, Helene Fischer,... as well as for some international artist
+        like Michael Bublé, Paul Anka, Michal Bolten and Berry Manilow.
         <br />
         <br />
         In 2020 i felt it was time for a new challenge and so i went back to my
@@ -39,10 +40,12 @@
       <h4 class="q-pl-md q-mb-none">
         my <span class="text-cyan-8">skills</span>
       </h4>
-          <p class="q-ma-md text-subtitle2">
-              I am interested in all things Javascript and i have a faible for
-              the Vue.js-Ecosystem - especially for the great Quasar-Framework.
-            </p> 
+      <p class="q-ma-md text-subtitle2">
+        I am interested in all things Javascript and i have a faible for the
+        Vue.js-Ecosystem - especially for the great Quasar-Framework. I love
+        software that provides good user interfaces and a great user experience.
+      </p>
+      <p class="q-ma-md text-subtitle2"></p>
 
       <q-list>
         <q-item>
@@ -69,7 +72,7 @@
           <q-item-section>
             <q-item-label overline>Backend</q-item-label>
             <q-item-label>
-              Node.js, Express.js, npm
+              Node.js, Express.js, npm, EJS
             </q-item-label>
           </q-item-section>
         </q-item>
