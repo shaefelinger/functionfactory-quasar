@@ -10,8 +10,8 @@
         <div class="offset-3 col-6 q-mt-xl">
           <div>
             <div class="row q-my-xl">
-              <span class="text-h1 offset-3 col-6">web</span>
-              <span class="text-cyan-8 text-h1 offset-4 col-6">apps</span>
+              <span class="text-h1 offset-3 col-3">web</span>
+              <span class="text-cyan-8 text-h1 col-6">apps</span>
               <!-- <h1>
                 <br />
               </h1> -->
